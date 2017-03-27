@@ -1,3 +1,0 @@
-DataBindingExample:------------
-http://www.c-sharpcorner.com/article/data-binding-in-angular-2/
-..................................................................................................
